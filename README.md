@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**2023-uam-2009-stack/2023-uam-2009-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with BeanSquad, a bookkeeping and accounting company focused on the franchise industry.
 
-Here are some ideas to get you started:
+## Areas of focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Franchise bookkeeping
+- Multi-location financial reporting
+- Sales tax
+- Payroll processing
+- Cash flow management
+- Franchise compliance and reporting
+- Financial analytics and KPIs
+
+## BeanSquad
+
+BeanSquad provides bookkeeping and accounting support for franchise businesses, including single-unit and multi-location operators.
+
+[Visit BeanSquad]
+(https://beansquad.com/)
